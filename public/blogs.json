@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/images/book1.jpg",
+        "title": "The Lost Chronicles",
+        "author": "Alice Smith",
+        "author_img": "https://example.com/images/authors/alice.jpg",
+        "posted_date": "2024-01-15",
+        "reading_time": 4,
+        "hashtags": ["#fiction", "#adventure", "#mystery"]
+    },
+    {
+        "id": 2,
+        "cover": "https://example.com/images/book2.jpg",
+        "title": "Tech Revolution",
+        "author": "Bob Johnson",
+        "author_img": "https://example.com/images/authors/bob.jpg",
+        "posted_date": "2024-02-10",
+        "reading_time": 6,
+        "hashtags": ["#technology", "#innovation", "#future"]
+    },
+    {
+        "id": 3,
+        "cover": "https://example.com/images/book3.jpg",
+        "title": "Culinary Journeys",
+        "author": "Emma Brown",
+        "author_img": "https://example.com/images/authors/emma.jpg",
+        "posted_date": "2024-03-05",
+        "reading_time": 5,
+        "hashtags": ["#cooking", "#foodie", "#travel"]
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/images/book4.jpg",
+        "title": "Mindfulness Mastery",
+        "author": "David Lee",
+        "author_img": "https://example.com/images/authors/david.jpg",
+        "posted_date": "2024-04-20",
+        "reading_time": 7,
+        "hashtags": ["#wellness", "#mindfulness", "#selfcare"]
+    }
+    
+]
